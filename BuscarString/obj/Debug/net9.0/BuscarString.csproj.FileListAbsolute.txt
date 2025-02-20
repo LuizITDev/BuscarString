@@ -1,0 +1,14 @@
+/Users/luizdanunciacao/RiderProjects/BuscarString/BuscarString/bin/Debug/net9.0/BuscarString
+/Users/luizdanunciacao/RiderProjects/BuscarString/BuscarString/bin/Debug/net9.0/BuscarString.deps.json
+/Users/luizdanunciacao/RiderProjects/BuscarString/BuscarString/bin/Debug/net9.0/BuscarString.runtimeconfig.json
+/Users/luizdanunciacao/RiderProjects/BuscarString/BuscarString/bin/Debug/net9.0/BuscarString.dll
+/Users/luizdanunciacao/RiderProjects/BuscarString/BuscarString/bin/Debug/net9.0/BuscarString.pdb
+/Users/luizdanunciacao/RiderProjects/BuscarString/BuscarString/obj/Debug/net9.0/BuscarString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luizdanunciacao/RiderProjects/BuscarString/BuscarString/obj/Debug/net9.0/BuscarString.AssemblyInfoInputs.cache
+/Users/luizdanunciacao/RiderProjects/BuscarString/BuscarString/obj/Debug/net9.0/BuscarString.AssemblyInfo.cs
+/Users/luizdanunciacao/RiderProjects/BuscarString/BuscarString/obj/Debug/net9.0/BuscarString.csproj.CoreCompileInputs.cache
+/Users/luizdanunciacao/RiderProjects/BuscarString/BuscarString/obj/Debug/net9.0/BuscarString.dll
+/Users/luizdanunciacao/RiderProjects/BuscarString/BuscarString/obj/Debug/net9.0/refint/BuscarString.dll
+/Users/luizdanunciacao/RiderProjects/BuscarString/BuscarString/obj/Debug/net9.0/BuscarString.pdb
+/Users/luizdanunciacao/RiderProjects/BuscarString/BuscarString/obj/Debug/net9.0/BuscarString.genruntimeconfig.cache
+/Users/luizdanunciacao/RiderProjects/BuscarString/BuscarString/obj/Debug/net9.0/ref/BuscarString.dll
